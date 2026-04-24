@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+I am a graduate student with interests in:
+
+- Public health data science  
+- Epidemiology and biostatistics  
+- Machine learning applications in healthcare  
+
+My work focuses on applying statistical and computational methods to real-world healthcare datasets such as NHIS and electronic health records.
