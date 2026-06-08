@@ -10,7 +10,7 @@ title: "Home"
 
 ### Graduate Student | Healthcare Analytics | Public Health Data Science
 
-Welcome to my personal website. I am a graduate student working in healthcare analytics and machine learning applications in public health. My main interests are in chronic disease epidemiology. I have experience with data analysis and visualization in R and SAS.
+Welcome to my personal website. I am a recent graduate student working in healthcare analytics and machine learning applications in public health. My main interests are in chronic disease epidemiology. I have experience with data analysis and visualization in R and SAS.
 
 This site showcases some of the projects I completed as a graduate student, including dashboards, epidemiologic analyses, and applied data science work.
 
